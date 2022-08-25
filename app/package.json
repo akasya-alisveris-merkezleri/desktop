@@ -20,7 +20,7 @@
     "@github/alive-client": "^0.0.2",
     "app-path": "^3.3.0",
     "byline": "^5.0.0",
-    "chalk": "^2.3.0",
+    "chalk": "^5.0.1",
     "classnames": "^2.2.5",
     "codemirror": "^5.60.0",
     "codemirror-mode-elixir": "^1.1.2",
